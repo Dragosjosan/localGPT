@@ -3,6 +3,9 @@
 /DB
 /models
 
+# Ignore pycharm
+/.idea
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -167,3 +170,4 @@ cython_debug/
 #MacOS
 .DS_Store
 SOURCE_DOCUMENTS/.DS_Store
+/SOURCE_DOCUMENTS/ansa_curve_documentation.txt
